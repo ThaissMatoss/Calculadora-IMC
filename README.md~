@@ -1,0 +1,27 @@
+# 🧮 Calculadora de IMC
+
+Este é um projeto simples de **Calculadora de IMC (Índice de Massa Corporal)**, feita com HTML, CSS e JavaScript.  
+
+---
+
+## 📌 Funcionalidades
+
+- Inserção de nome, altura e peso
+- Cálculo automático do IMC
+- Exibição do resultado com a classificação:
+  - Abaixo do peso
+  - Peso normal
+  - Sobrepeso
+  - Obesidade grau I, II ou III
+
+---
+
+## 🛠️ Tecnologias usadas
+
+- HTML5
+- CSS3 
+- JavaScript puro (sem frameworks)
+
+---
+
+Feito por Thaís Matos 
